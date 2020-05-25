@@ -1,0 +1,10 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+.font-Arial{
+    font-family: Arial, sans-serif;
+}
+.no-ahref{
+    text-decoration: none;
+}
